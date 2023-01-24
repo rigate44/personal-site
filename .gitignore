@@ -37,7 +37,7 @@ node_modules
 .lock-wscript
 
 # Webpack related
-public/dist/
+docs/dist/
 dist/
 tmp/
 build/
