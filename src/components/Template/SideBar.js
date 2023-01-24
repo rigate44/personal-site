@@ -20,8 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Juan Carlos. I like building things.
-        I am a <a href="https://www.comillas.edu/en/icai">Comillas ICAI</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
+        I am a <a href="https://www.comillas.edu/en/icai">ICAI</a> Industrial Engineer, YC Alumni, and
+        the co-founder and CTO of <a href="https://arthena.com">PMN Sportswear</a>. Before Arthena I was
         at <a href="https://matroid.com">Matroid</a>
         , <a href="https://planet.com">Planet</a>
         , <a href="https://planetaryresources.com">Planetary Resources</a>

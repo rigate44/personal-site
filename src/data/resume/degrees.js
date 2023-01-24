@@ -1,15 +1,21 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Universidad Pontificia Comilas ICAI',
+    degree: 'Máster Universitario en Ingeniería Industrial y Máster Universitario en Sector Eléctrico (MII+MEPI)',
+    link: 'https://www.comillas.edu/en/icai',
+    year: '2022-2024',
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'University of Minnesota',
+    degree: 'Undergraduate, Industrial Engineering',
+    link: 'https://umn.edu',
+    year: '2021-2022',
+  },
+  {
+    school: 'Universidad Pontificia Comilas ICAI',
+    degree: 'Grado en Ingeniería en Tecnologías Industriales (GITI)',
+    link: 'https://www.comillas.edu/en/icai',
+    year: '2018-2022',
   },
 ];
 
