@@ -25,7 +25,7 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: 'www.linkedin.com/in/jcciscar',
+    link: 'https://www.linkedin.com/in/jcciscar/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
